@@ -73,3 +73,13 @@ textarea{
 #currentDay {
   margin-top: 20px;
 }
+
+.far {
+  display: flex;
+  justify-content: center;
+}
+
+#save {
+  background-color: rgb(0, 166, 255);
+  color: white;
+}
